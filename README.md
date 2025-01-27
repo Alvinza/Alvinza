@@ -6,15 +6,15 @@
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### Frontend:
 
 HTML, CSS, JavaScript, React
 
-### Backend
+### Backend:
 
 Node.js, Express js
 
-### Tools
+### Tools:
 
 Git, GitHub
 
