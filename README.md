@@ -20,7 +20,6 @@ Git, GitHub
 
 ## 📫Contact
 - 📧 Email: alvinzondi09@gmail.com
-- 📱 Phone: 067 604 9312
 - 💼 LinkedIn: https://www.linkedin.com/in/alvin-zondi/
 
 
