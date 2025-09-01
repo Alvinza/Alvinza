@@ -29,9 +29,8 @@ I’m always eager to learn new technologies, take on exciting projects, and I�
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
-![Alvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvinza&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvinza&layout=compact&theme=radical)
 
 ---
@@ -52,4 +51,3 @@ I’m always eager to learn new technologies, take on exciting projects, and I�
 ---
 
 ⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
-
