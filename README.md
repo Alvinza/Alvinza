@@ -29,7 +29,6 @@ I’m always eager to learn new technologies, take on exciting projects, and I�
 
 ---
 
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvinza&layout=compact&theme=radical)
 
 ---
@@ -38,7 +37,8 @@ I’m always eager to learn new technologies, take on exciting projects, and I�
 
 🔹 [**Hair Salon FullStack App**](https://github.com/Alvinza/Hair-Salon-FullStack) – Responsive booking-ready web app built with React, Node.js & Tailwind.  
 🔹 [**Portfolio Website**](https://github.com/Alvinza/newPortfolio) – Personal portfolio showcasing my projects and skills.  
-🔹 More coming soon... 🚀
+🔹 [**Vinkid Beatz**](https://github.com/Alvinza/vinkid-beatz) – Music-focused project showcasing beats and creativity.  
+🔹 [**Data Analysis Models**](https://github.com/Alvinza/D-A-Models) – A collection of data analysis models and experiments.  
 
 ---
 
@@ -49,4 +49,4 @@ I’m always eager to learn new technologies, take on exciting projects, and I�
 
 ---
 
-⭐️ *“Code is like humor. When you have to explain it, it’s bad.”*  
+⭐️ *“Great code is poetry that machines understand and humans enjoy.”*  
