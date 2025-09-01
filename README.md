@@ -29,7 +29,6 @@ I’m always eager to learn new technologies, take on exciting projects, and I�
 
 ---
 
-## 📊 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvinza&layout=compact&theme=radical)
 
