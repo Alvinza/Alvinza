@@ -41,7 +41,7 @@ I’m always eager to learn new technologies, take on exciting projects, and I�
 🔹 [**Hair Salon FullStack App**](https://github.com/Alvinza/Hair-Salon-FullStack) – Responsive booking-ready web app built with the MERN stack & Tailwind.  
 🔹 [**Beat Store FullStack Website**](https://github.com/Alvinza/vinkid-beatz) – MERN stack website to play & purchase beats with Stripe, styled with Tailwind.  
 🔹 [**Portfolio Website**](https://github.com/Alvinza/newPortfolio) – Personal portfolio showcasing my projects and skills.  
-🔹 [**Modeling Agency Website**](https://github.com/Alvinza/modeling-agency) – Frontend website styled with Tailwind.  
+🔹 [**Modeling Agency Website**](https://github.com/Alvinza/D-A-Models) – Frontend website styled with Tailwind.  
 
 ---
 
