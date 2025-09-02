@@ -1,7 +1,7 @@
 # 👨‍💻 Web Developer | React & MERN Stack
 
 Hi, I’m **Alvin Zondi**, a passionate **Web Developer** skilled in **React, JavaScript, and the MERN stack**.  
-I graduated from HyperionDev and enjoy turning ideas into reality through clean, efficient code.  
+HyperionDev Graduate and enjoy turning ideas into reality through clean, efficient code.  
 I’m always eager to learn new technologies, take on exciting projects, and I’m currently **open to web developer opportunities** 🚀.  
 
 🎓 Check out my portfolio: [HyperionDev Portfolio](https://www.hyperiondev.com/portfolio/108878/)  
